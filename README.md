@@ -23,4 +23,4 @@ I think the first 3 tasks are completely doable and I have the knowledge, thanks
 ## Resources
 I'll be using many requests to the DRIVE Api. Maybe I'll have to host this web app on a server, I was thinking Amazon Web Services, mainly because I have a coupon for it. 
 
--- CS41 Final Project --
+> CS41 Final Project
