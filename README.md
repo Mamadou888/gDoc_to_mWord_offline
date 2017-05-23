@@ -1,4 +1,4 @@
-# gDoc_to_mWord_offline
+# Google Doc to Microsoft Word Offline Sync
 > Mamadou-Sadio Diallo (mamadou)
 
 ## Overview
